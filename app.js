@@ -34,7 +34,9 @@ function displayPhotos() {
      img.addEventListener('load', imgLoad);
     imageContainer.appendChild(item)
     });
+    
 }
+
 
 
 // Unsplah API
